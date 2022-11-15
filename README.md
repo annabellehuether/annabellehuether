@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annabellehuether
-- 👀 I’m interested in all things data science (Inference, ML, DL, CV etc.)
+- 👀 I’m interested in all things data science!
 - 🌱 I’m currently getting my Master's in Data Science from NYU
 - 📫 How to reach me: amh9750@nyu.edu
 
