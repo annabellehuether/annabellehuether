@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @annabellehuether
-- 👀 I’m interested in all things data science!
-- 🌱 I’m currently getting my Master's in Data Science from NYU
+- 👋 Hi, I’m `@annabellehuether`
+- 👀 I’m interested in all things data science, but especially ML/AI applications to fashion and beauty!
+- 🌱 I received my master's in Data Science from NYU
+- 💄 I'm currently a Data Scientist at The Estée Lauder Companies Inc.
 - 📫 How to reach me: amh9750@nyu.edu
 
 <!---
